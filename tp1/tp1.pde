@@ -1,4 +1,4 @@
-//Candela Marra tp 1 comi 2
+//Candela Marra tp 1 comi 2 legajo 119081/0
 PImage miPaisaje;
 void setup (){
 size (800,400);
